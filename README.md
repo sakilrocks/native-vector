@@ -20,7 +20,7 @@ a custom C++ dynamic array implementation exploring low level memory management 
 native-vector/
   └─ src
       ├─ main.cpp
-      └─ vector.cpp
+      └─ vector.hpp
 ```
 
 ### vector.hpp
